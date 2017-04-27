@@ -1,0 +1,10 @@
+What Git concepts were you struggling with prior to the GPS session?
+  Before the GPS session, I was still not completely confident pushing branches or repos to GitHub.  I'd also never used or tried the git fetch command before and did not completely understand what it would do.  I also did not know how to add a picture from my own computer (the screen shot) to a markdown file.
+What concepts were clarified during the GPS?
+  During the GPS I was able to practice, and also watch my partner push branches to GitHub, which helped me feel more comfortable with those actions.  I also now feel that I have an understanding of what git fetch and git pull do, and the difference between those commands.
+What questions did you ask your pair and the guide?
+  I asked for clarification about the git push command.  Specifically I think I asked, when do you do a 'git push origin master' vs when you need to specify the branch name.  I also asked for help with syntax a few times and was reminded to put 'git' before the commands (which I forgot a few times).
+What still confuses me about git?
+  I still get nervous when doing git push for some reason.  I feel like I wouldn't do a very good job describing what the origin means when you do a 'git push origin master.'  I think it means that you are pushing your local changes to the origin (on github for the case of the gps challenge).  I'm curious if that name changes if a repository originates on computer and is pushed to git hub at some point, or if we always call the repo on github 'origin.'
+How was your first experience of pairing in a GPS?
+  I really enjoyed my first GPS experience.  I was really nervous before it started.  Prior to the session starting, I felt like I was about to start a test.  Once it got going, I felt a lot better.  I was happy that when I had questions they were explained in detail.  I also felt that I was able to help my partner when they were stuck or needed help looking something up.  I'm really excited for my other pairing sessions this week now!
